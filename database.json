@@ -1,0 +1,55 @@
+{
+  "users": {
+    "userId_1": {
+      "profile": {
+        "name": "John Doe",
+        "age": 30,
+        "email": "johndoe@example.com"
+      },
+      "expenses": {
+        "expenseId_1": {
+          "amount": 50.00,
+          "category": "Food",
+          "date": "2024-10-01",
+          "description": "Dinner"
+        },
+        "expenseId_2": {
+          "amount": 20.00,
+          "category": "Transport",
+          "date": "2024-10-02",
+          "description": "Taxi"
+        }
+      },
+      "income": {
+        "incomeId_1": {
+          "amount": 1500.00,
+          "source": "Job",
+          "date": "2024-10-01",
+          "description": "Monthly Salary"
+        }
+      },
+      "savings": {
+        "savingId_1": {
+          "amount": 200.00,
+          "date": "2024-10-05",
+          "description": "Savings for Vacation"
+        }
+      }
+    },
+    "userId_2": {
+      "profile": {
+        "name": "Jane Smith",
+        "age": 28,
+        "email": "janesmith@example.com"
+      },
+      "expenses": {
+        
+      },
+      "income": {
+      },
+      "savings": {
+      
+      }
+    }
+  }
+}
